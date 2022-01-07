@@ -34,7 +34,7 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     注意： 最好的学习就是天天使用它                                                                                            
     vim的使用与操作脚本：                                                                                         
     最简单的入门：https://zhuanlan.zhihu.com/p/74633462                                                
-    菜鸟教程：https://www.runoob.com/linux/linux-vim.html
+    菜鸟教程：https://www.runoob.com/linux/linux-vim.html                                                                            
     git与gitte与github:
     git教程：https://www.w3cschool.cn/git/                                                                     
             https://www.liaoxuefeng.com/wiki/896043488029600
