@@ -25,7 +25,7 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     注意：需要使用启动盘制作工具，推荐使用Rufus：https://rufus.ie/zh/                                               
     操作系统安装Guide: Ubuntu: https://zhuanlan.zhihu.com/p/135953477                                 
                              https://www.cnblogs.com/masbay/p/10745170.html                                         
-                     Debian: https://www.debian.org/releases/stable/amd64/index.zh-cn.html（官方手册）
+                     Debian: https://www.debian.org/releases/stable/amd64/index.zh-cn.html  （官方手册）
                              https://zhuanlan.zhihu.com/p/73122221                                                      
     如果还不会请seek你最近的师兄，人肉救援                                                                                       
     Linux的使用：                                                                                                       
