@@ -31,8 +31,8 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     Linux的使用：                                                                                                       
     一个比较明细的教程：http://c.biancheng.net/linux_tutorial/                                        
     菜鸟教程：https://www.runoob.com/linux/linux-tutorial.html                                   
-    注意： 最好的学习就是天天使用它
-    vim的使用与操作脚本：                                                                            
+    注意： 最好的学习就是天天使用它                                                                                            
+    vim的使用与操作脚本：                                                                                         
     最简单的入门：https://zhuanlan.zhihu.com/p/74633462                                                
     菜鸟教程：https://www.runoob.com/linux/linux-vim.html
     git与gitte与github:
