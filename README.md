@@ -38,10 +38,10 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     git与gitte与github:
     git教程：https://www.w3cschool.cn/git/                                                                     
             https://www.liaoxuefeng.com/wiki/896043488029600
-    主要掌握git clone/git push/git pull/git commit/git add/git rebase/git remove/git branch/git status/git log等命令
-    开始配置github会比较麻烦，细心或者寻求外援                                                    
-    gitte 类似于中国的github 官网 https://gitee.com                                                                 
-    Linux终端：
-    打开命令：alt+ctrl+t
-    一般默认是bash解释器，这里推荐换成zsh
-    可以安装ohmyzsh: https://github.com/ohmyzsh/ohmyzsh                                                         
+    主要掌握git clone/git push/git pull/git commit/git add/git rebase/git remove/git branch/git status/git log等命令                                   
+    开始配置github会比较麻烦，细心或者寻求外援                                                                                                        
+    gitte 类似于中国的github 官网 https://gitee.com                                                                                             
+    Linux终端：                                                                                                                                    
+    打开命令：alt+ctrl+t                                                                                                                         
+    一般默认是bash解释器，这里推荐换成zsh                                                                                                              
+    可以安装ohmyzsh: https://github.com/ohmyzsh/ohmyzsh                                                                                                                                                      
