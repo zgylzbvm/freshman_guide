@@ -17,7 +17,8 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
 ————————————————————————我是分割线——————————————————————                                                                 
 1.操作系统选择                                                                                            
     推荐使用linux操作系统，优先使用Debian10系列 ： https://www.debian.org/releases/index.zh-cn.html (可以在该网站获取稳定版本）
-    其次可以使用Ubuntu20+以上的版本 ： https://cn.ubuntu.com/download/desktop (可以在该网站获取稳定版本）https://ubuntu.com/download/desktop (可以选择21版本）
+    其次可以使用Ubuntu20+以上的版本 ： https://cn.ubuntu.com/download/desktop (可以在该网站获取稳定版本）
+    https://ubuntu.com/download/desktop (可以选择21版本）
     注意：操作系统需要足够大容量的U盘作为系统盘，可以在京东购买：https://item.jd.com/2148924.html
     注意：操作系统需要符合你的处理器型号！！！                                                                           
     注意：需要使用启动盘制作工具，推荐使用Rufus：https://rufus.ie/zh/                                               
