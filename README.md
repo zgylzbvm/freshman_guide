@@ -44,4 +44,12 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     Linux终端：                                                                                                                                    
     打开命令：alt+ctrl+t                                                                                                                         
     一般默认是bash解释器，这里推荐换成zsh                                                                                                              
-    可以安装ohmyzsh: https://github.com/ohmyzsh/ohmyzsh                                                                                                                                                      
+    可以安装ohmyzsh: https://github.com/ohmyzsh/ohmyzsh                                                                                                                     
+    文献管理软件个人建议使用zotero（下载请自行百度）如果你用endnote我觉得也没啥问题的哈
+    然后有一点注意的就是，zotero每个月上传流量有限，可以和网盘做链接，这样非常节省流量
+    具体的zotero使用可以看下面的教程：https://zhuanlan.zhihu.com/p/98428625?from_voters_page=true
+    如何链接云盘：https://content.jianguoyun.com/26288.html
+    zotero还有外挂的翻译软件，可以自行安装：https://gitee.com/l0o0/translators_CN
+    
+    具体的文章和科普的文献介绍可以先看这本书 ：Processor Microarchitecture：An Implementation Perspective
+    文件的话这个仓库里面会有 ，先到这里嘎嘎
