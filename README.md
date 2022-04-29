@@ -53,5 +53,9 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     
     具体的文章和科普的文献介绍可以先看这本书 ：Processor Microarchitecture：An Implementation Perspective
     文件的话这个仓库里面会有 ，先到这里嘎嘎
+    
     如果你真的是啥都不会的话
     那请看《深入理解计算机系统》，bilibili上面有网课搜 CSAPP 就可以，跟着看完
+    看完上面那一本CSAPP,之后要看《计算机组成与设计：软件与硬件接口》 b站上也有课
+    最后看计算机体系结构量化研究方法 推荐第六版 
+    以上教材建议看英文版，看完了就看你需要干啥了，可以来找我，面聊
