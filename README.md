@@ -53,3 +53,5 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     
     具体的文章和科普的文献介绍可以先看这本书 ：Processor Microarchitecture：An Implementation Perspective
     文件的话这个仓库里面会有 ，先到这里嘎嘎
+    如果你真的是啥都不会的话
+    那请看《深入理解计算机系统》，bilibili上面有网课搜 CSAPP 就可以，跟着看完
