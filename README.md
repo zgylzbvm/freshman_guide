@@ -51,6 +51,7 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     如何链接云盘：https://content.jianguoyun.com/26288.html
     zotero还有外挂的翻译软件，可以自行安装：https://gitee.com/l0o0/translators_CN
     
+    
     具体的文章和科普的文献介绍可以先看这本书 ：Processor Microarchitecture：An Implementation Perspective
     文件的话这个仓库里面会有 ，先到这里嘎嘎
     后面会继续增加关于课题的书和经典的论文嘎嘎
