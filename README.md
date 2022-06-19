@@ -49,6 +49,8 @@ FOR FRESHMAN IN NUDT CORE LAB RESEARCH AND CODING TOOLS
     然后有一点注意的就是，zotero每个月上传流量有限，可以和网盘做链接，这样非常节省流量
     具体的zotero使用可以看下面的教程：https://zhuanlan.zhihu.com/p/98428625?from_voters_page=true
     如何链接云盘：https://content.jianguoyun.com/26288.html
+    
+    
     zotero还有外挂的翻译软件，可以自行安装：https://gitee.com/l0o0/translators_CN
     
     
